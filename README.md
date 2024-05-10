@@ -1,22 +1,22 @@
 <p align="center">
-    <img src="./app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="150">
+    <gimg src="./app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="150">
 </p>
 
-<h1 align="center">TwiFucker</h1>
+<h1 align="center">NoMoreXeets</h1>
 
 <div align="center">
 
-### Yet Another Adkiller for Twitter
+### Yet Another Adkiller (and probably the "X" vanisher) for Twitter (formerly "X") [which it will never be cause dadda Elon's gay]
     
 [![author][author-image]][author-url]
 [![release][release-image]][release-url]
 [![last commit][last-commit-image]][last-commit-url]    
     
-English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md) &nbsp;&nbsp;|&nbsp;&nbsp; [日本語](README_JA.md)
+English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md) &nbsp;&nbsp;|&nbsp;&nbsp; [日本語](README_JA.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Malay](README_MS.md)
     
 ##
 
-<a href="https://t.me/TwiFucker"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Join TwiFucker Telegram Group"></a>
+<a href="https://t.me/TwiFucker"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Join the original TwiFucker Telegram Group"></a>
 
 ⚠️ This is an Xposed module. Support only API 93+ ⚠️ 
 
@@ -35,15 +35,19 @@ You can find Beta version / Rootless integration (automatically embed latest Twi
 
 ##
 
-## 🚫 This project is currently discontinued due to [shameless plagiarism](https://t.me/TwiFucker/475)
-
+# 🚫 This project is currently discontinued due to [shameless plagiarism](https://t.me/TwiFucker/475)
+## WHAT HAPPENED?
+- Apparently, there's Aero. They're stealing sh*t and stuff. They got so mad that the original creator disabled the [original project](https://github.com/Dr-TSNG/TwiFucker/).
+- 
 ### ⚠️ Copyright Notice
+### From my prespective:
+There's a swing on the state of original mod. Apparently, [people](https://old.reddit.com/r/moddedandroidapps/comments/17oguew/any_modded_twitter_app_twifucker_replacement/k80na4d/) [are](https://old.reddit.com/r/androidapps/comments/16a8xva/aeromods_are_safe/jz6sh1m/) [talking](https://old.reddit.com/r/androidapps/comments/1ant5g5/any_third_party_twitter_left/kpvhrb3/).
+### Notice from the original creator:
+`What we hate most about is the modification of our texts, especially our **MODULE TITLE**, which absolutely means they want others to think all the work is done by THEM instead of others, though they actually helped NOTHING with the module development.`
 
-What we hate most about is the modification of our texts, especially our **MODULE TITLE**, which absolutely means they want others to think all the work is done by THEM instead of others, though they actually helped NOTHING with the module development.
+`We are not opposed to integrating our module in your client, but we strongly condemn the behavior of **modifying our texts and hiding our author info**.`
 
-We are not opposed to integrating our module in your client, but we strongly condemn the behavior of **modifying our texts and hiding our author info**.
-
-Although our project was open source before, we didn't set up a license, so **ALL COPYRIGHTS RESERVED**. And from now on we decline ANY modification or pre-patched client. It's ok if you LSPatch Twitter with our module by yourself, but you should not release your patched apk anywhere.
+`Although our project was open source before, we didn't set up a license, so **ALL COPYRIGHTS RESERVED**. And from now on we decline ANY modification or pre-patched client. It's ok if you LSPatch Twitter with our module by yourself, but you should not release your patched apk anywhere.`
 
 <details>
    <summary><h2>✨ Features</h2></summary>
